@@ -9,14 +9,14 @@ _**Please enter your name here!!**_
 
 You can update this file two ways:
 
-1. (Easy way) Via Github.com:
+## (Easy way) Via Github.com:
   1. Click on the edit icon on the top right.
   2. Add whatever you like to the text.
   3. Type your commit message in the first box below.
   4. Select (commit directly to the master branch)
   5. Click commit changes.
   
-2. (Long way) Via Command Line:
+## (Long way) Via Command Line:
   1. open you command line.
   2. Make sure your command line is currently where you want to save this repo.
   3. Use the command: ``` git clone https://github.com/daliasaleeby/CS411ProjectA5Team2.git ```
