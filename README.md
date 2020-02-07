@@ -1,6 +1,6 @@
-# CS411ProjectA5Team2
+# CS411 Project A5 Team #2
 
-## Project Title: TBA :O
+## Project Title: TBA :o
 
 ## Abstract: 
 
