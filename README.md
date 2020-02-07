@@ -1,6 +1,6 @@
 # CS411 Project A5 Team #2
 
-## Project Title: TBA :o
+## Project Title: TBA :o  
 
 ## Abstract: 
 
