@@ -27,7 +27,7 @@ You can update this file two ways:
   5. Click commit changes.
   
 ## (Long way) Via Command Line:
-  1. open your command line.
+  1. Open your command line.
   2. Make sure your command line is currently pointing to where you want to save this repo. You can change your directory using the command ``` cd <enter path here> ```
   3. Use the command: ``` git clone https://github.com/daliasaleeby/CS411ProjectA5Team2.git ```
   4. Use the command: ``` git pull ``` (Now you have all the files on your device!) :D
