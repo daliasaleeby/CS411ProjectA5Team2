@@ -39,6 +39,3 @@ You can update this file two ways:
   7. Use the command ``` git commit -m "my first commit! :D" ```
   8. Finally, use the command ``` git push ```
 
-## Fork it!!
-If you want this project to appear on your Github account, make sure you click "Fork" on the top right of the page! ;)
-
