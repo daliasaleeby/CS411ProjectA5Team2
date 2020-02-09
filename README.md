@@ -15,7 +15,7 @@ _**Please enter your name here!! ;)**_
 
 4.
 
-5. Dima Al Dulaijan
+5. 
 
 You can update this file two ways:
 
