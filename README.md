@@ -5,17 +5,15 @@
 ## Abstract: 
 
 ## Team Members:
-_**Please enter your name here!! ;)**_ 
+1. Charlotte
 
-1.
+2. Costas
 
-2. 
+3. Dalia
 
-3.
+4. Dima
 
-4.
-
-5. 
+5. Han
 
 You can update this file two ways:
 
@@ -36,6 +34,6 @@ You can update this file two ways:
   4. Use the command: ``` git pull ``` (Now you have all the files on your device!) :D
   5. Open the README.md in a text editor and add your name! :D
   6. Use the command ``` git add README.md ```
-  7. Use the command ``` git commit -m "my first commit! :D" ```
+  7. Use the command ``` git commit -m "update README.md" ```
   8. Finally, use the command ``` git push ```
 
