@@ -1,4 +1,4 @@
-# CS411 Project A5 Team #2
+# Spring 2020: CS411 Project A5 Team #2
 
 ## Project Title: TBA :D 
 
