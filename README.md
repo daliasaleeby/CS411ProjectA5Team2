@@ -32,7 +32,7 @@ You can update this file two ways:
   ``` git clone https://github.com/daliasaleeby/CS411ProjectA5Team2.git ```
   
   4. Use the command: ``` git pull ``` (Now you have all the files on your device!) :D
-  5. Open the README.md in a text editor and add your name! :D
+  5. Open the README.md in a text editor and edit the text.
   6. Use the command ``` git add README.md ```
   7. Use the command ``` git commit -m "update README.md" ```
   8. Finally, use the command ``` git push ```
