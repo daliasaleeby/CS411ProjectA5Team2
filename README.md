@@ -15,7 +15,7 @@
 
 5. Han
 
-You can update this file two ways:
+# You can update this file two ways:
 
 ## (Easy way) Via Github.com:
   1. Click on the edit icon on the top right.
