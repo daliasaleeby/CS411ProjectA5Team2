@@ -17,7 +17,7 @@ A Boston University transportation tracker and notification system. This app sca
 
 5. Han
 
-# You can update this repository in two ways:
+# You can update this repository by doing the following:
   
 ## Via Command Line:
   1. Open your command line.
