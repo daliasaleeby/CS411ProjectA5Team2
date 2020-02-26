@@ -22,13 +22,11 @@ A Boston University transportation tracker and notification system. This app sca
 ## Via Command Line:
   1. Open your command line.
   2. Make sure your command line is currently pointing to where you want to save this repo. You can change your directory using the command ``` cd <enter path here> ```
-  3. If you have not cloned the repo to your device, use the command:
- 
-  ``` git clone https://github.com/daliasaleeby/CS411ProjectA5Team2.git ```
+  3. If you have not cloned the repo to your device, use the command: ``` git clone https://github.com/daliasaleeby/CS411ProjectA5Team2.git ```
   
   4. Use the command: ``` git pull ``` (Now you have all the files up to date on your device!) :D
   5. If you would like to add files to the repository make sure to place them in the cloned git folder ``` /CS411ProjectA5Team2 ```
-  6. Use the command ``` git add <your file name here> ``` if you've added a new file, if you have just made changes to existing files you can skip this step.
+  6. Use the command ``` git add <your file name here> ``` if you have added a new file, if you have just made changes to existing files you can skip this step.
   7. Use the command ``` git commit -m "<your message here>" ``` please make sure your message is appropriate and concise. Use lower case letters and the present tense such "update README.md" and avoid "updated README.md"
   8. Finally, use the command ``` git push ```
 
