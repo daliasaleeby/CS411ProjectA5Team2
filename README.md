@@ -1,8 +1,8 @@
 # CS 411 Project A5 Team #2
 
-## Project Title: TBA :D 
+## Project Title: Get Me There! :D (Tentative)
 
-## Abstract: 
+## Abstract: A Boston University transportation tracker and notification system.
 
 ## Team Members:
 1. Charlotte
