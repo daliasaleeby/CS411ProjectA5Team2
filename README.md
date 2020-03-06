@@ -27,6 +27,6 @@ A Boston University transportation tracker and notification system. This app sca
   4. Use the command: ``` git pull ``` (Now you have all the files up to date on your device!) :D
   5. If you would like to add files to the repository make sure to place them in the cloned git folder ``` /CS411ProjectA5Team2 ```
   6. Use the command ``` git add <your file name here> ``` if you have added a new file, if you have just made changes to existing files you can skip this step.
-  7. Use the command ``` git commit -m "<your message here>" ``` please make sure your message is appropriate and concise. Use lower case letters and the present tense such "update README.md" and avoid "updated README.md"
+  7. Use the command ``` git commit -m "<your message here>" ``` please make sure your message is appropriate and concise. Use lower case letters and the present tense such as "update README.md" and avoid "updated README.md"
   8. Finally, use the command ``` git push ```
 
