@@ -1,0 +1,21 @@
+{
+  "name": "getMeThere",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "app.js"
+  },
+  "keywords": [
+    "\"server\""
+  ],
+  "author": "Han",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "pug": "^2.0.4"
+  }
+}
